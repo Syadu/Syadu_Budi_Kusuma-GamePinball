@@ -3,11 +3,23 @@
   "WorkspaceRootPath": "D:\\Project Unity\\Syadu_Budi_Kusuma-GamePinball\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3095F686-96C7-22A2-1AA6-46D5DECF147D}|Assembly-CSharp.csproj|d:\\project unity\\syadu_budi_kusuma-gamepinball\\assets\\script\\bumpercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3095F686-96C7-22A2-1AA6-46D5DECF147D}|Assembly-CSharp.csproj|d:\\project unity\\syadu_budi_kusuma-gamepinball\\assets\\script\\launchercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3095F686-96C7-22A2-1AA6-46D5DECF147D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\launchercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3095F686-96C7-22A2-1AA6-46D5DECF147D}|Assembly-CSharp.csproj|d:\\project unity\\syadu_budi_kusuma-gamepinball\\assets\\script\\ballcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3095F686-96C7-22A2-1AA6-46D5DECF147D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ballcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3095F686-96C7-22A2-1AA6-46D5DECF147D}|Assembly-CSharp.csproj|D:\\Project Unity\\Syadu_Budi_Kusuma-GamePinball\\assets\\script\\switchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3095F686-96C7-22A2-1AA6-46D5DECF147D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\switchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3095F686-96C7-22A2-1AA6-46D5DECF147D}|Assembly-CSharp.csproj|D:\\Project Unity\\Syadu_Budi_Kusuma-GamePinball\\assets\\script\\bumpercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3095F686-96C7-22A2-1AA6-46D5DECF147D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bumpercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3095F686-96C7-22A2-1AA6-46D5DECF147D}|Assembly-CSharp.csproj|d:\\project unity\\syadu_budi_kusuma-gamepinball\\assets\\script\\paddlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3095F686-96C7-22A2-1AA6-46D5DECF147D}|Assembly-CSharp.csproj|D:\\Project Unity\\Syadu_Budi_Kusuma-GamePinball\\assets\\script\\paddlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3095F686-96C7-22A2-1AA6-46D5DECF147D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\paddlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,6 +35,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LauncherController.cs",
+              "DocumentMoniker": "D:\\Project Unity\\Syadu_Budi_Kusuma-GamePinball\\Assets\\Script\\LauncherController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\LauncherController.cs",
+              "ToolTip": "D:\\Project Unity\\Syadu_Budi_Kusuma-GamePinball\\Assets\\Script\\LauncherController.cs",
+              "RelativeToolTip": "Assets\\Script\\LauncherController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T20:51:31.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BallController.cs",
+              "DocumentMoniker": "D:\\Project Unity\\Syadu_Budi_Kusuma-GamePinball\\Assets\\Script\\BallController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\BallController.cs",
+              "ToolTip": "D:\\Project Unity\\Syadu_Budi_Kusuma-GamePinball\\Assets\\Script\\BallController.cs",
+              "RelativeToolTip": "Assets\\Script\\BallController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T20:48:19.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SwitchController.cs",
+              "DocumentMoniker": "D:\\Project Unity\\Syadu_Budi_Kusuma-GamePinball\\Assets\\Script\\SwitchController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SwitchController.cs",
+              "ToolTip": "D:\\Project Unity\\Syadu_Budi_Kusuma-GamePinball\\Assets\\Script\\SwitchController.cs",
+              "RelativeToolTip": "Assets\\Script\\SwitchController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T19:22:30.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "BumperController.cs",
               "DocumentMoniker": "D:\\Project Unity\\Syadu_Budi_Kusuma-GamePinball\\Assets\\Script\\BumperController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\BumperController.cs",
@@ -30,12 +80,11 @@
               "RelativeToolTip": "Assets\\Script\\BumperController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T17:45:42.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-26T17:45:42.405Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "PaddleController.cs",
               "DocumentMoniker": "D:\\Project Unity\\Syadu_Budi_Kusuma-GamePinball\\Assets\\Script\\PaddleController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\PaddleController.cs",
@@ -43,8 +92,7 @@
               "RelativeToolTip": "Assets\\Script\\PaddleController.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAgwA8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T16:54:32.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-26T16:54:32.42Z"
             }
           ]
         }
