@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SocialPlatforms.Impl;
 
 public class SwitchController : MonoBehaviour
 {
@@ -18,6 +19,11 @@ public class SwitchController : MonoBehaviour
     private SwitchState state;
     private Renderer render;
 
+    public AudioManager audioManager;
+    public VFXManager vfxManager;
+    public ScoreManager scoreManager;
+    public float score;
+
     private void Start()
     {
         render = GetComponent<Renderer>();
@@ -32,6 +38,9 @@ public class SwitchController : MonoBehaviour
         if (other == bola)
         {
             Toggle();
+            audioManager.PlaySwitchSFX(other.transform.position);
+            vfxManager.PlaySwitchVFX(other.transform.position);
+            scoreManager.AddScore(score);
         }
     }
 

@@ -123,6 +123,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   bola: {fileID: 0}
   multiplier: 5
+  audioManager: {fileID: 0}
 --- !u!95 &5810686068898829393
 Animator:
   serializedVersion: 5

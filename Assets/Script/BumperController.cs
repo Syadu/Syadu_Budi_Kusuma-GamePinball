@@ -7,6 +7,11 @@ public class BumperController : MonoBehaviour
     public Collider bola;
     public float multiplier;
     private Animator animator;
+
+    public AudioManager audioManager;
+    public VFXManager vfxManager;
+    public ScoreManager scoreManager;
+    public float score;
     // Start is called before the first frame update
     void Start()
     {
@@ -23,6 +28,9 @@ public class BumperController : MonoBehaviour
     {
         if (collision.collider == bola) 
         {
+            scoreManager.AddScore(score);
+            vfxManager.PlayVFX(collision.transform.position);
+            audioManager.PlayBumperSFX(collision.transform.position);
             Rigidbody bolaRig = bola.GetComponent<Rigidbody>();
             bolaRig.velocity *= multiplier;
             animator.SetTrigger("hit");
