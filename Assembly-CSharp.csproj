@@ -67,11 +67,15 @@
     <Compile Include="Assets\Script\RampColliderController.cs" />
     <Compile Include="Assets\Script\TriggerZoominController.cs" />
     <Compile Include="Assets\Script\ScoreManager.cs" />
+    <Compile Include="Assets\Script\TriggerGameOver.cs" />
     <Compile Include="Assets\Script\SwitchController.cs" />
+    <Compile Include="Assets\Script\MainMenuUIController.cs" />
     <Compile Include="Assets\Script\BallController.cs" />
     <Compile Include="Assets\Script\BumperController.cs" />
     <Compile Include="Assets\Script\AudioManager.cs" />
+    <Compile Include="Assets\Script\CreditManager.cs" />
     <Compile Include="Assets\Script\CameraController.cs" />
+    <Compile Include="Assets\Script\GameOverButton.cs" />
     <Compile Include="Assets\Script\VFXManager.cs" />
     <Compile Include="Assets\Script\LauncherController.cs" />
   </ItemGroup>

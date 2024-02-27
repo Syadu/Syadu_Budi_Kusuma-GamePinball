@@ -3,11 +3,27 @@
   "WorkspaceRootPath": "D:\\Project Unity\\Syadu_Budi_Kusuma-GamePinball\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3095F686-96C7-22A2-1AA6-46D5DECF147D}|Assembly-CSharp.csproj|d:\\project unity\\syadu_budi_kusuma-gamepinball\\assets\\script\\scoreuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3095F686-96C7-22A2-1AA6-46D5DECF147D}|Assembly-CSharp.csproj|d:\\project unity\\syadu_budi_kusuma-gamepinball\\assets\\script\\creditmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3095F686-96C7-22A2-1AA6-46D5DECF147D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\creditmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3095F686-96C7-22A2-1AA6-46D5DECF147D}|Assembly-CSharp.csproj|d:\\project unity\\syadu_budi_kusuma-gamepinball\\assets\\script\\triggergameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3095F686-96C7-22A2-1AA6-46D5DECF147D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\triggergameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3095F686-96C7-22A2-1AA6-46D5DECF147D}|Assembly-CSharp.csproj|D:\\Project Unity\\Syadu_Budi_Kusuma-GamePinball\\assets\\script\\gameoverbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3095F686-96C7-22A2-1AA6-46D5DECF147D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gameoverbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3095F686-96C7-22A2-1AA6-46D5DECF147D}|Assembly-CSharp.csproj|D:\\Project Unity\\Syadu_Budi_Kusuma-GamePinball\\assets\\script\\mainmenuuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3095F686-96C7-22A2-1AA6-46D5DECF147D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\mainmenuuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3095F686-96C7-22A2-1AA6-46D5DECF147D}|Assembly-CSharp.csproj|D:\\Project Unity\\Syadu_Budi_Kusuma-GamePinball\\assets\\script\\scoreuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3095F686-96C7-22A2-1AA6-46D5DECF147D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\scoreuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3095F686-96C7-22A2-1AA6-46D5DECF147D}|Assembly-CSharp.csproj|d:\\project unity\\syadu_budi_kusuma-gamepinball\\assets\\script\\rampcollidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3095F686-96C7-22A2-1AA6-46D5DECF147D}|Assembly-CSharp.csproj|D:\\Project Unity\\Syadu_Budi_Kusuma-GamePinball\\assets\\script\\rampcollidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3095F686-96C7-22A2-1AA6-46D5DECF147D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\rampcollidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -71,6 +87,56 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CreditManager.cs",
+              "DocumentMoniker": "D:\\Project Unity\\Syadu_Budi_Kusuma-GamePinball\\Assets\\Script\\CreditManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CreditManager.cs",
+              "ToolTip": "D:\\Project Unity\\Syadu_Budi_Kusuma-GamePinball\\Assets\\Script\\CreditManager.cs",
+              "RelativeToolTip": "Assets\\Script\\CreditManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T08:59:20.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameOverButton.cs",
+              "DocumentMoniker": "D:\\Project Unity\\Syadu_Budi_Kusuma-GamePinball\\Assets\\Script\\GameOverButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameOverButton.cs",
+              "ToolTip": "D:\\Project Unity\\Syadu_Budi_Kusuma-GamePinball\\Assets\\Script\\GameOverButton.cs",
+              "RelativeToolTip": "Assets\\Script\\GameOverButton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T08:25:52.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TriggerGameOver.cs",
+              "DocumentMoniker": "D:\\Project Unity\\Syadu_Budi_Kusuma-GamePinball\\Assets\\Script\\TriggerGameOver.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\TriggerGameOver.cs",
+              "ToolTip": "D:\\Project Unity\\Syadu_Budi_Kusuma-GamePinball\\Assets\\Script\\TriggerGameOver.cs",
+              "RelativeToolTip": "Assets\\Script\\TriggerGameOver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T08:19:22.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainMenuUIController.cs",
+              "DocumentMoniker": "D:\\Project Unity\\Syadu_Budi_Kusuma-GamePinball\\Assets\\Script\\MainMenuUIController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MainMenuUIController.cs",
+              "ToolTip": "D:\\Project Unity\\Syadu_Budi_Kusuma-GamePinball\\Assets\\Script\\MainMenuUIController.cs",
+              "RelativeToolTip": "Assets\\Script\\MainMenuUIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T08:08:46.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ScoreUIController.cs",
               "DocumentMoniker": "D:\\Project Unity\\Syadu_Budi_Kusuma-GamePinball\\Assets\\Script\\ScoreUIController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\ScoreUIController.cs",
@@ -78,12 +144,11 @@
               "RelativeToolTip": "Assets\\Script\\ScoreUIController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T07:36:47.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T07:36:47.349Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "RampColliderController.cs",
               "DocumentMoniker": "D:\\Project Unity\\Syadu_Budi_Kusuma-GamePinball\\Assets\\Script\\RampColliderController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\RampColliderController.cs",
@@ -91,12 +156,11 @@
               "RelativeToolTip": "Assets\\Script\\RampColliderController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T07:24:15.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T07:24:15.871Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "ScoreManager.cs",
               "DocumentMoniker": "D:\\Project Unity\\Syadu_Budi_Kusuma-GamePinball\\Assets\\Script\\ScoreManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\ScoreManager.cs",
@@ -108,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "TriggerZoominController.cs",
               "DocumentMoniker": "D:\\Project Unity\\Syadu_Budi_Kusuma-GamePinball\\Assets\\Script\\TriggerZoominController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\TriggerZoominController.cs",
@@ -120,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "VFXManager.cs",
               "DocumentMoniker": "D:\\Project Unity\\Syadu_Budi_Kusuma-GamePinball\\Assets\\Script\\VFXManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\VFXManager.cs",
@@ -132,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "BumperController.cs",
               "DocumentMoniker": "D:\\Project Unity\\Syadu_Budi_Kusuma-GamePinball\\Assets\\Script\\BumperController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\BumperController.cs",
@@ -144,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "SwitchController.cs",
               "DocumentMoniker": "D:\\Project Unity\\Syadu_Budi_Kusuma-GamePinball\\Assets\\Script\\SwitchController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\SwitchController.cs",
@@ -156,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "TriggerZoomoutController.cs",
               "DocumentMoniker": "D:\\Project Unity\\Syadu_Budi_Kusuma-GamePinball\\Assets\\Script\\TriggerZoomoutController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\TriggerZoomoutController.cs",
@@ -168,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "AudioManager.cs",
               "DocumentMoniker": "D:\\Project Unity\\Syadu_Budi_Kusuma-GamePinball\\Assets\\Script\\AudioManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\AudioManager.cs",
@@ -180,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "CameraController.cs",
               "DocumentMoniker": "D:\\Project Unity\\Syadu_Budi_Kusuma-GamePinball\\Assets\\Script\\CameraController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\CameraController.cs",
@@ -192,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "LauncherController.cs",
               "DocumentMoniker": "D:\\Project Unity\\Syadu_Budi_Kusuma-GamePinball\\Assets\\Script\\LauncherController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\LauncherController.cs",
@@ -204,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "BallController.cs",
               "DocumentMoniker": "D:\\Project Unity\\Syadu_Budi_Kusuma-GamePinball\\Assets\\Script\\BallController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\BallController.cs",
@@ -216,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "SFXAudioController.cs",
               "DocumentMoniker": "D:\\Project Unity\\Syadu_Budi_Kusuma-GamePinball\\Assets\\Script\\SFXAudioController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\SFXAudioController.cs",
@@ -228,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "PaddleController.cs",
               "DocumentMoniker": "D:\\Project Unity\\Syadu_Budi_Kusuma-GamePinball\\Assets\\Script\\PaddleController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\PaddleController.cs",
